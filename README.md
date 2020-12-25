@@ -1,5 +1,6 @@
 ### Hi there, here is what I'm currently working on👋
 
+
 <!--
 **priyadarshu/priyadarshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -15,3 +16,5 @@
 #### Read my Quotes on   :  [YourQuote](https://www.yourquote.in/priyadarshini-chettiar-r6iq/quotes)
 #### Read my Blog on     :  [Blogger](https://thedriftedsoul.blogspot.com/)
 #### My personal website :  _In Progress!_ :smiley:
+
+**_My Favorite Quote : Believe In Yourself & You Will Be Unstoppable!_** ⚡
