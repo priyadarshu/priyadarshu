@@ -19,7 +19,8 @@
 ####
 #### Connect with me on  :  [LinkedIn](https://www.linkedin.com/in/priyadarshini-chettiar-476332129/), [Twitter](https://twitter.com/priya_darshu_)
 #### Read my Quotes on   :  [YourQuote](https://www.yourquote.in/priyadarshini-chettiar-r6iq/quotes)
-#### Read my Blog on     :  [Blogger](https://thedriftedsoul.blogspot.com/)
+#### Read my Inspirational Blog on     :  [Blogger](https://thedriftedsoul.blogspot.com/)
+#### Read my Technical Blog on     :  [Hashnode](https://priyadarshinichettiar.hashnode.dev)
 
 ##
 
