@@ -26,4 +26,4 @@
 #### My Favorite Quote : **_Believe In Yourself & You Will Be Unstoppable!_** ⚡
 
 ##
-![](githuboctocat.png)
+![](octocat.png)
