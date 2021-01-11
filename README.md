@@ -14,7 +14,7 @@
 
 ##
 
-#### My personal website :  _In Progress!_ :smiley:
+#### My personal website :  https://priyadarshu.github.io/
 
 ####
 #### Connect with me on  :  [LinkedIn](https://www.linkedin.com/in/priyadarshini-chettiar-476332129/), [Twitter](https://twitter.com/priya_darshu_)
@@ -26,3 +26,4 @@
 #### My Favorite Quote : **_Believe In Yourself & You Will Be Unstoppable!_** ⚡
 
 ##
+![](githuboctocat.png)
