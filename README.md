@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Priyadarshini Chettiar</h1>
 <h3 align="center">A passionate Full Stack and Flutter Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyadarshu&label=Profile%20views&color=0e75b6&style=flat" alt="priyadarshu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyadarshu&label=Profile%20views&color=0e75b6&style=flat" alt="priyadarshu" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyadarshu" alt="priyadarshu" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/priya_darshu_" target="blank"><img src="https://img.shields.io/twitter/follow/priya_darshu_?logo=twitter&style=for-the-badge" alt="priya_darshu_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/priya_darshu_" target="blank"><img src="https://img.shields.io/twitter/follow/priya_darshu_?logo=twitter&style=for-the-badge" alt="priya_darshu_" /></a></p>
 
 - 🔭 I’m currently working on [Speech to Text Flutter Project](https://github.com/priyadarshu/flutter_speak_to_text_api_proj)
 
@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://priyadarshu.github.io/](https://priyadarshu.github.io/)
 
-- 📝 I regularly write articles on [https://priyadarshinichettiar.hashnode.dev , https://dev.to/priyadarshu, https://community.codenewbie.org/priyadarshu, https://thedriftedsoul.blogspot.com/](https://priyadarshinichettiar.hashnode.dev , https://dev.to/priyadarshu, https://community.codenewbie.org/priyadarshu, https://thedriftedsoul.blogspot.com/)
+- 📝 I regularly write articles on https://priyadarshinichettiar.hashnode.dev , https://dev.to/priyadarshu, https://community.codenewbie.org/priyadarshu, https://thedriftedsoul.blogspot.com/](https://priyadarshinichettiar.hashnode.dev , https://dev.to/priyadarshu, https://community.codenewbie.org/priyadarshu, https://thedriftedsoul.blogspot.com/)
 
 - 💬 Ask me about **Flutter**
 
@@ -34,6 +34,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/priyadarshu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="priyadarshu" height="30" width="40" /></a>
+
 <a href="https://twitter.com/priya_darshu_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="priya_darshu_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/priyadarshu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="priyadarshu" height="30" width="40" /></a>
 <a href="https://codesandbox.com/priyadarshu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="priyadarshu" height="30" width="40" /></a>
