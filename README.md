@@ -25,7 +25,7 @@
 
 - 📄 Know about my experiences [Inprogress](Inprogress)
 
-- ⚡ Fun fact **Fun fact: I am a blogger and a quote writer, while I breathe scripts**😜
+- ⚡**Fun fact: I am a blogger and a quote writer, while I breathe scripts**😜
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -54,4 +54,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyadarshu&show_icons=true&locale=en" alt="priyadarshu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyadarshu&" alt="priyadarshu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyadarshu&" alt="priyadarshu" /></p>
