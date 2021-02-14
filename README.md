@@ -27,6 +27,9 @@
 
 - ⚡**Fun fact: I am a blogger and a quote writer, while I breathe scripts**😜
 
+- 🔥 My favourite quote **If it's important for you, you will find a way, if not, you will find an excuse**
+
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
