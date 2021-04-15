@@ -35,7 +35,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
-<p align="left" >
+<p align="left" style='background-color: white'>
 
 <a href="https://dev.to/priyadarshu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="priyadarshu" height="30" width="40" /></a>
 
