@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://priyadarshu.github.io/](https://priyadarshu.github.io/)
 
-- 📝 I regularly write articles on **[Hashnode](https://priyadarshinichettiar.hashnode.dev) , [DevTo](https://dev.to/priyadarshu) , [CodeNewbie](https://community.codenewbie.org/priyadarshu) , [Blogger](https://thedriftedsoul.blogspot.com)**
+- 📝 I regularly write articles on **[Hashnode](https://priyadarshu.hashnode.dev) , [DevTo](https://dev.to/priyadarshu) , [CodeNewbie](https://community.codenewbie.org/priyadarshu) , [Blogger](https://thedriftedsoul.blogspot.com)**
 
 - 💬 Ask me about **Flutter**
 
