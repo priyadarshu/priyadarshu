@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyadarshini Chettiar</h1>
-<h3 align="center">A passionate Full Stack and Flutter Developer from India</h3>
+<h3 align="center">A passionate techie from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyadarshu&label=Profile%20views&color=0e75b6&style=flat" alt="priyadarshu" /></p>
 
@@ -7,30 +7,21 @@
 
 <p align="left"> <a href="https://twitter.com/priya_darshu_" target="blank"><img src="https://img.shields.io/twitter/follow/priya_darshu_?logo=twitter&style=for-the-badge" alt="priya_darshu_" /></a></p>
 
-- 🔭 I’m currently working on [Speech to Text Flutter Project](https://github.com/priyadarshu/flutter_speak_to_text_api_proj)
+- 🌱 I’m currently focusing on **CI / CD **
 
-- 🌱 I’m currently learning **Flutter, React Js, HTML, CSS, dart, Javascript**
+- 👯 I’m looking to collaborate on opensource automation projects
 
-- 👯 I’m looking to collaborate on **Flutter Projects**
-
-- 🤝 I’m looking for help with **React Js and Flutter Project**
-
-- 👨‍💻 All of my projects are available at [https://priyadarshu.github.io/](https://priyadarshu.github.io/)
+<!--  👨‍💻 All of my projects are available at [https://priyadarshu.github.io/](https://priyadarshu.github.io/) -->
 
 - 📝 I regularly write articles on **[Hashnode](https://priyadarshu.hashnode.dev) , [DevTo](https://dev.to/priyadarshu) , [CodeNewbie](https://community.codenewbie.org/priyadarshu) , [Blogger](https://thedriftedsoul.blogspot.com)**
 
-- 💬 Ask me about **Flutter**
 
-- 📫 How to reach me **priyadarshinichettiar@gmail.com**
-
-- 📄 Know about my experiences [Inprogress](Inprogress)
-
-- ⚡**Fun fact: I am a blogger and a quote writer, while I breathe scripts**😜
+<!-- ⚡**Fun fact: I am a blogger and a quote writer, while I breathe scripts**😜 -->
 
 - 🔥 My favourite quote **If it's important for you, you will find a way, if not, you will find an excuse**
 
 
-### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
