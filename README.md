@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/priya_darshu_" target="blank"><img src="https://img.shields.io/twitter/follow/priya_darshu_?logo=twitter&style=for-the-badge" alt="priya_darshu_" /></a></p>
 
-- 🌱 I’m currently focusing on **DevOps**
+- 🌱 I’m currently focusing on **DevOps and Flutter**
 
 - 👯 I’m looking to collaborate on opensource automation projects
 
