@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Priyadarshini Chettiar</h1>
+<h1 align="center">Hi 👋, I'm Priyadarshini Karthikeyan</h1>
 <h3 align="center">A passionate techie from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyadarshu&label=Profile%20views&color=0e75b6&style=flat" alt="priyadarshu" /></p>
@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/priya_darshu_" target="blank"><img src="https://img.shields.io/twitter/follow/priya_darshu_?logo=twitter&style=for-the-badge" alt="priya_darshu_" /></a></p>
 
-- 🌱 I’m currently focusing on **DevOps and Flutter**
+- Currently practicing as a DevSecOps Engineer
 
 - 👯 I’m looking to collaborate on opensource automation projects
 
 <!--  👨‍💻 All of my projects are available at [https://priyadarshu.github.io/](https://priyadarshu.github.io/) -->
 
-- 📝 I regularly write articles on **[Hashnode](https://priyadarshu.hashnode.dev) , [DevTo](https://dev.to/priyadarshu) , [CodeNewbie](https://community.codenewbie.org/priyadarshu) , [Blogger](https://thedriftedsoul.blogspot.com)**
+- You can find my articles on **[Hashnode](https://priyadarshu.hashnode.dev) , [DevTo](https://dev.to/priyadarshu) , [CodeNewbie](https://community.codenewbie.org/priyadarshu) , [Blogger](https://thedriftedsoul.blogspot.com)**
 
 
 <!-- ⚡**Fun fact: I am a blogger and a quote writer, while I breathe scripts**😜 -->
